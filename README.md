@@ -73,9 +73,9 @@ FLASK_DEBUG=false
 Edit these in `app.py`:
 ```python
 DEPARTMENT_URIS = {
-    "sales":   "sip:userabdullah12879@sip.telnyx.com",
-    "support": "sip:userabdullah68947@sip.telnyx.com",
-    "porting": "sip:abdulla429@sip.telnyx.com",
+    "sales":   "sip:xxxxxx@sip.telnyx.com",
+    "support": "sip:xxxxx@sip.telnyx.com",
+    "porting": "sip:xxxxxx@sip.telnyx.com",
 }
 DIGIT_TO_DEPARTMENT = {"1": "sales", "2": "support", "3": "porting"}
 ```
